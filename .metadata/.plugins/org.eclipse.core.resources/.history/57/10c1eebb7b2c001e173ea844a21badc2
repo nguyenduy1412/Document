@@ -1,0 +1,5 @@
+package com.mosofvn.repository;
+
+public class CategoryRepository extends{
+
+}
